@@ -1,0 +1,4 @@
+# Normalize line endings; shell scripts must keep LF to run in bash
+* text=auto
+*.sh text eol=lf
+*.png binary

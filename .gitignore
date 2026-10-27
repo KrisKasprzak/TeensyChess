@@ -1,0 +1,19 @@
+# Build output
+tools/build/
+tools/ui_preview/build/
+*.exe
+*.o
+*.d
+*.elf
+*.hex
+
+# Local tools, downloaded for testing on Windows (not redistributed)
+tools/w64devkit/
+tools/w64dk_download/
+
+# Original Stockfish sources used as the porting reference
+# (available from https://github.com/official-stockfish/Stockfish)
+Stockfish_sourcecode/
+
+# Personal notes
+Prompt.txt
