@@ -4,6 +4,8 @@ Play chess against **TeensyFish**, a port of the [Stockfish](https://github.com/
 chess engine, on a Teensy 4.0 with a 2.8" ILI9341 touch display. Everything runs on the
 Teensy: no PC, no network.
 
+YouTube Video https://youtu.be/XVFergngo14
+
 | Start of a game | A selected piece, the engine's last move and a hint |
 |---|---|
 | ![Start](tools/ui_preview/out/2_start.png) | ![Selected piece and hint](tools/ui_preview/out/3_selected_hint.png) |
